@@ -1,5 +1,5 @@
-Sorotipo,Em branco,DENV-1 Genótipo V,DENV-2 Genótipo II,DENV-2 Genótipo II-Cosmopolita,DENV-2 Genótipo III-Asiático-Americano,DENV-2 Genótipo V-Asiático I,DENV-3 Genótipo III,DENV-3 Genótipo III (repetido?),DENV-4 Genótipo II,Total
-DENV1,3,1738,,,,,,,1741,
-DENV2,21,,,1405,58,5,,,1129,
-DENV3,,,1,,,,2,109,112,
-DENV4,,,,,,,,,3,3
+"Sorotipo","Em branco","DENV-1 Genótipo V","DENV-2 Genótipo II","DENV-2 Genótipo II-Cosmopolita","DENV-2 Genótipo III-Asiático-Americano","DENV-2 Genótipo V-Asiático I","DENV-3 Genótipo III","DENV-4 Genótipo II","Total"
+"DENV1",3,1738,,,,,,,1741
+"DENV2",21,,,1405,58,5,,,1129
+"DENV3",,,1,,,,111,,112
+"DENV4",,,,,,,,3,3
